@@ -1,0 +1,12 @@
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/bin/Debug/net9.0/Babylon.Net.deps.json
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/bin/Debug/net9.0/Babylon.Net.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/bin/Debug/net9.0/Babylon.Net.pdb
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.csproj.AssemblyReference.cache
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.AssemblyInfoInputs.cache
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.AssemblyInfo.cs
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.csproj.CoreCompileInputs.cache
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/refint/Babylon.Net.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/Babylon.Net.pdb
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Babylon.Net/obj/Debug/net9.0/ref/Babylon.Net.dll

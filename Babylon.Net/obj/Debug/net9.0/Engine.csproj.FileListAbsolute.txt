@@ -1,0 +1,12 @@
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/bin/Debug/net9.0/Engine.deps.json
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/bin/Debug/net9.0/Engine.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/bin/Debug/net9.0/Engine.pdb
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.AssemblyInfoInputs.cache
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.AssemblyInfo.cs
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.csproj.CoreCompileInputs.cache
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/refint/Engine.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.pdb
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/ref/Engine.dll
+/Users/albertstarreveld/Documents/code/ilionx/replicator/Engine/obj/Debug/net9.0/Engine.csproj.AssemblyReference.cache
